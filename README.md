@@ -1,83 +1,20 @@
-# Kinky-otter
-creative repository with AI-generated artwork, sticker designs, and visual concepts for apparel, leather goods, and alternative fashion projects. Includes prompts, references, evolving designs, workflows, and iterative AI-assisted explorations focused on visual design, branding, and practical product development.
-Creative AI Design Repository
+## Getting Started Each Session
 
-## Purpose
-This repository exists as a central home for my AI-assisted creative work, design experiments, and visual development for apparel, leather goods, and sticker-based products within alternative and queer-adjacent fashion spaces.
+When returning to the project, follow these step-by-step instructions:
 
-This is not a software project.
-It is a creative continuity system.
+1. **Review Recent Work**:  
+   - Open the project's repository on GitHub.  
+   - Navigate to the "Commits" section to see the latest changes made.  
+   - Check the pull requests to see any discussions or ongoing work that needs your attention.
 
-The goal is to document ideas clearly enough that I can step away and return without losing the original intent, visual language, or emotional tone of the work.
+2. **Access AI Tools**:  
+   - Ensure you have access to the AI tools integrated into the project.  
+   - Refer to the tools' documentation if you need to install or set up any additional software.  
+   - Use the command line or IDE extensions to interact with the AI tools as per your project requirements.
 
-## What Lives Here
-This repository may include:
-- AI image prompts (drafted, refined, and versioned)
-- Sticker concepts and visual studies
-- Apparel and leather goods design ideas
-- Workflow notes for AI tools, Photoshop, and Cricut production
-- Style references and aesthetic notes
-- Reminders to future-me about what *not* to do as much as what to do
-
-Not everything here is final.
-Iteration is expected.
-
-## Sticker Design Focus
-The stickers created for this project are intended to be:
-
-- Bold, graphic, and print-friendly
-- Stylized rather than realistic
-- Suggestive, playful, and confident without explicit nudity
-- Rooted in queer visual language and masculinity
-- Designed to read clearly at small sizes
-
-Common themes include:
-- Stylized male silhouettes and figures
-- Underwear, leather gear, and fashion-forward elements
-- Pop-art influence and simplified shapes
-- Humor, flirtation, and coded sexuality
-- Confidence, softness, strength, and self-awareness
-
-Explicit content is avoided in favor of implication, abstraction, and design-forward suggestion.
-
-## Visual Style Guidelines
-Overall aesthetic goals:
-- Clean outlines and intentional shapes
-- Limited but intentional color palettes
-- Strong contrast for sticker readability
-- Inspiration from pop art, vintage illustration, graphic iconography, and leather subculture aesthetics
-- Masculine forms presented with playfulness and warmth, not aggression
-
-Where applicable:
-- Figures should feel iconic rather than anatomical
-- Bodies are shapes first, bodies second
-- Design should feel confident, not thirsty
-
-## Production Thinking
-All designs should consider:
-- Print and cut workflows (Cricut-friendly)
-- Clear silhouettes for sticker borders
-- Scalability without losing detail
-- Potential adaptation to apparel, magnets, or patches
-
-## How to Re-Enter This Project (For Future Me)
-If you open this repository and feel disconnected:
-1. Read this README fully.
-2. Review the most recent prompt files.
-3. Look for notes labeled “intent” or “vision.”
-4. Continue where you left off — nothing here is precious.
-
-You are allowed to refine, simplify, or discard ideas.
-
-## Philosophy
-This repository prioritizes:
-- Creative continuity over memory
-- Documentation over perfection
-- Momentum over pressure
-- Curiosity over self-criticism
-
-The work does not need to be finished to be valid.
-
-## Status
-This is a living creative archive.
-Structure and content will evolve as tools, skills, and ideas change.
+3. **Continue Design Iterations**:  
+   - Identify the design elements that need review or further development based on your previous work and any feedback you've received.  
+   - Collaborate with your team members using GitHub comments or issues to discuss your next steps.
+   - Make the necessary updates or create new branches for new design features.
+   
+By following these instructions, you'll ensure a smooth transition back into the project and reduce time spent on orientation.
