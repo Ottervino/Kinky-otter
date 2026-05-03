@@ -7,31 +7,43 @@
 ## Status Key
 | Symbol | Meaning |
 |--------|----------|
-| Done | Final / approved |
-| WIP | Needs iteration |
-| Idea | Concept / rough draft |
+| Done | Final / approved & production complete |
+| WIP | Created, in production pipeline |
+| Idea | Concept / rough draft / not started |
 | Star | Favourite / hero image |
+
+---
+
+## Production Pipeline Stages
+When status is **WIP**, track progress through these stages:
+- [ ] Created (raw AI image)
+- [ ] Edited (refined/touched up)
+- [ ] Vectorized (converted to vector format)
+- [ ] Cricut Transfer (prepped for Cricut machine)
+- [ ] Printed (physical print produced)
+- [ ] Assembled (final assembly complete)
+- [ ] Done (final product ready)
 
 ---
 
 ## FULL COLLECTION (14 Images)
 
-| # | Name | Series | Status | Notes |
-|---|------|--------|--------|-------|
-| 001 | Base Style Template | Style Reference | Idea | USE THIS as prefix for ALL new stickers |
-| 002 | Masculine Queer Character | Leather Series | Idea | Core character |
-| 003 | Bear Daddy | Leather Series | Idea | Warm/dominant energy |
-| 004 | Biker | Leather Series | Idea | Leather jacket, crossed arms |
-| 005 | Pup Play | Leather Series | Idea | Hood, playful pose |
-| 006 | Muscle Daddy | Leather Series | Idea | Most hyper-masculine |
-| 007 | The Otter | Brand / Leather | Idea | THIS IS THE BRAND MASCOT |
-| 008 | Leather Boots (Icon) | Icon Series | Idea | First object sticker |
-| 009 | Rubber Man | Leather Series | Idea | Latex catsuit, unique in set |
-| 010 | Cowboy / Wrangler | Leather Series | Idea | Denim + leather crossover |
-| 011 | Gym Bro / Tank | Leather Series | Idea | Tank top, gym aesthetic |
-| 012 | Leather Daddy Seated | Leather Series | Idea | Dominant throne pose |
-| 013 | Pride Flag Icon | Icon Series | Idea | Symbol/brand use |
-| 014 | Hanky Code Bandana | Icon Series | Idea | Culture reference icon |
+| # | Name | Series | Status | Image Filename | Notes |
+|---|------|--------|--------|-----------------|-------|
+| 001 | Base Style Template | Style Reference | Idea | [pending] | USE THIS as prefix for ALL new stickers |
+| 002 | Masculine Queer Character | Leather Series | Idea | [pending] | Core character |
+| 003 | Bear Daddy | Leather Series | Idea | [pending] | Warm/dominant energy |
+| 004 | Biker | Leather Series | Idea | [pending] | Leather jacket, crossed arms |
+| 005 | Pup Play | Leather Series | Idea | [pending] | Hood, playful pose |
+| 006 | Muscle Daddy | Leather Series | Idea | [pending] | Most hyper-masculine |
+| 007 | The Otter | Brand / Leather | Idea | [pending] | THIS IS THE BRAND MASCOT |
+| 008 | Leather Boots (Icon) | Icon Series | Idea | [pending] | First object sticker |
+| 009 | Rubber Man | Leather Series | Idea | [pending] | Latex catsuit, unique in set |
+| 010 | Cowboy / Wrangler | Leather Series | Idea | [pending] | Denim + leather crossover |
+| 011 | Gym Bro / Tank | Leather Series | Idea | [pending] | Tank top, gym aesthetic |
+| 012 | Leather Daddy Seated | Leather Series | Idea | [pending] | Dominant throne pose |
+| 013 | Pride Flag Icon | Icon Series | Idea | [pending] | Symbol/brand use |
+| 014 | Hanky Code Bandana | Icon Series | Idea | [pending] | Culture reference icon |
 
 ---
 
@@ -47,6 +59,8 @@ Output: clean white background, die-cut sticker border, centered composition,
 vector ready illustration.
 ```
 **Tags:** #vector #bold-outline #flat-color #sticker #tom-of-finland #die-cut
+**Image Filename:** [pending]
+**Pipeline Status:** Not started
 **Notes:** This is the BASE STYLE LOCK. Always use this as the first block of every new prompt.
 
 ---
@@ -63,6 +77,8 @@ Pose: standing confidently facing viewer.
 Mood: queer leather bar culture, confidence, strength, community.
 ```
 **Tags:** #character #leather-bar #queer #harness #boots #muscular #beard
+**Image Filename:** [pending]
+**Pipeline Status:** Not started
 
 ---
 
@@ -77,6 +93,8 @@ Expression: warm but dominant. Body type: stocky/beefy.
 Mood: bear community, leather bar, big friendly energy.
 ```
 **Tags:** #bear #daddy #leather-vest #cap #chest-hair #stocky
+**Image Filename:** [pending]
+**Pipeline Status:** Not started
 
 ---
 
@@ -91,6 +109,8 @@ Pose: standing with arms crossed, confident.
 Mood: highway leather culture, rebellious, queer biker aesthetic.
 ```
 **Tags:** #biker #motorcycle #leather-jacket #boots #rebel
+**Image Filename:** [pending]
+**Pipeline Status:** Not started
 
 ---
 
@@ -105,6 +125,8 @@ Expression: playful, curious, joyful.
 Mood: pup play community, leather kink, expressive joy.
 ```
 **Tags:** #pup-play #leather-hood #collar #harness #playful
+**Image Filename:** [pending]
+**Pipeline Status:** Not started
 
 ---
 
@@ -119,6 +141,8 @@ Expression: powerful, authoritative, proud.
 Mood: gym meets leather bar, hyper-masculine queer aesthetic.
 ```
 **Tags:** #muscle-daddy #harness #patrol-cap #hyper-masculine
+**Image Filename:** [pending]
+**Pipeline Status:** Not started
 
 ---
 
@@ -134,6 +158,8 @@ Expression: playful, flirty, confident. Approachable sexy.
 Mood: otter community pride, cheeky, lean queer masculine energy.
 ```
 **Tags:** #otter #lean-muscular #body-hair #beard #harness #brand-mascot
+**Image Filename:** [pending]
+**Pipeline Status:** Not started
 **Notes:** STAR - This is the Kinky Otter brand mascot. Develop variations: winking, seated, holding sign, etc.
 
 ---
@@ -148,6 +174,8 @@ shiny black leather, bold buckle detail. No character - object/icon only.
 Mood: leather bar, kink culture, iconic symbol.
 ```
 **Tags:** #boots #leather-boots #icon #object-sticker #buckle
+**Image Filename:** [pending]
+**Pipeline Status:** Not started
 
 ---
 
@@ -161,6 +189,8 @@ muscular silhouette, minimal face detail, bold graphic form.
 Mood: rubber kink community, sleek and powerful.
 ```
 **Tags:** #rubber #latex #catsuit #kink #sleek
+**Image Filename:** [pending]
+**Pipeline Status:** Not started
 
 ---
 
@@ -174,6 +204,8 @@ hat, thumbs in belt loops, confident lean.
 Mood: queer western, leather rodeo, rugged and cool.
 ```
 **Tags:** #cowboy #wrangler #denim #chaps #western #queer-rodeo
+**Image Filename:** [pending]
+**Pipeline Status:** Not started
 
 ---
 
@@ -187,6 +219,8 @@ big arms, short hair, confident stance, wristbands.
 Mood: gym culture meets queer pride, pump and flex energy.
 ```
 **Tags:** #gym #tank-top #muscular #wristbands #pride-gym
+**Image Filename:** [pending]
+**Pipeline Status:** Not started
 
 ---
 
@@ -201,6 +235,8 @@ Expression: dominant, calm, authoritative.
 Mood: daddy energy, power, old guard leather.
 ```
 **Tags:** #leather-daddy #seated #throne #dominant #old-guard
+**Image Filename:** [pending]
+**Pipeline Status:** Not started
 
 ---
 
@@ -214,6 +250,8 @@ black, navy, royal blue, white, grey stripes with heart or symbol.
 Style: clean icon, minimal, recognizable symbol.
 ```
 **Tags:** #pride-flag #leather-pride #icon #symbol #brand-element
+**Image Filename:** [pending]
+**Pipeline Status:** Not started
 
 ---
 
@@ -227,6 +265,8 @@ bold graphic, recognizable kink culture reference.
 Mood: hanky code culture, leather community insider symbol.
 ```
 **Tags:** #hanky-code #bandana #pocket #kink-culture #leather-symbol
+**Image Filename:** [pending]
+**Pipeline Status:** Not started
 
 ---
 
@@ -238,8 +278,27 @@ Copy this template:
 **Prompt:**
 [paste exact prompt here]
 **Tags:** #tag1 #tag2
+**Image Filename:** [filename when added]
+**Pipeline Status:** [Not started / Created / Edited / Vectorized / Cricut Transfer / Printed / Assembled / Done]
 **Notes:** [what worked, what to try next]
 ```
 
 ---
-*Last updated: May 3, 2026 | 14 images logged*
+
+## CLEANUP & ORGANIZATION CHECKLIST
+
+Use this to track your OneDrive file organization:
+
+- [ ] Identify all created raw images
+- [ ] Mark duplicate images for deletion
+- [ ] Match images to catalogue numbers (#001-#014)
+- [ ] Rename files to match catalogue structure (e.g., `001-base-style-template.png`)
+- [ ] Remove duplicates from OneDrive
+- [ ] Import organized images to repo `/ai-images/created/` folder
+- [ ] Update Image Filename column in MASTER file
+- [ ] Update Pipeline Status for each image
+- [ ] Begin editing phase on created images
+
+---
+
+*Last updated: May 3, 2026 | 14 images catalogued | Workflow in progress*
