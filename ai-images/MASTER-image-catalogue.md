@@ -18,20 +18,20 @@
 
 | # | Name | Series | Status | Notes |
 |---|------|--------|--------|-------|
-| 001 | Base Style Template | Style Reference | Done | USE THIS as prefix for ALL new stickers |
-| 002 | Masculine Queer Character | Leather Series | Done | Core character |
-| 003 | Bear Daddy | Leather Series | Done | Warm/dominant energy |
-| 004 | Biker | Leather Series | Done | Leather jacket, crossed arms |
-| 005 | Pup Play | Leather Series | Done | Hood, playful pose |
-| 006 | Muscle Daddy | Leather Series | Done | Most hyper-masculine |
-| 007 | The Otter | Brand / Leather | STAR | THIS IS THE BRAND MASCOT |
-| 008 | Leather Boots (Icon) | Icon Series | Done | First object sticker |
-| 009 | Rubber Man | Leather Series | Done | Latex catsuit, unique in set |
-| 010 | Cowboy / Wrangler | Leather Series | Done | Denim + leather crossover |
-| 011 | Gym Bro / Tank | Leather Series | Done | Tank top, gym aesthetic |
-| 012 | Leather Daddy Seated | Leather Series | Done | Dominant throne pose |
-| 013 | Pride Flag Icon | Icon Series | Done | Symbol/brand use |
-| 014 | Hanky Code Bandana | Icon Series | Done | Culture reference icon |
+| 001 | Base Style Template | Style Reference | Idea | USE THIS as prefix for ALL new stickers |
+| 002 | Masculine Queer Character | Leather Series | Idea | Core character |
+| 003 | Bear Daddy | Leather Series | Idea | Warm/dominant energy |
+| 004 | Biker | Leather Series | Idea | Leather jacket, crossed arms |
+| 005 | Pup Play | Leather Series | Idea | Hood, playful pose |
+| 006 | Muscle Daddy | Leather Series | Idea | Most hyper-masculine |
+| 007 | The Otter | Brand / Leather | Idea | THIS IS THE BRAND MASCOT |
+| 008 | Leather Boots (Icon) | Icon Series | Idea | First object sticker |
+| 009 | Rubber Man | Leather Series | Idea | Latex catsuit, unique in set |
+| 010 | Cowboy / Wrangler | Leather Series | Idea | Denim + leather crossover |
+| 011 | Gym Bro / Tank | Leather Series | Idea | Tank top, gym aesthetic |
+| 012 | Leather Daddy Seated | Leather Series | Idea | Dominant throne pose |
+| 013 | Pride Flag Icon | Icon Series | Idea | Symbol/brand use |
+| 014 | Hanky Code Bandana | Icon Series | Idea | Culture reference icon |
 
 ---
 
@@ -242,4 +242,4 @@ Copy this template:
 ```
 
 ---
-*Last updated: March 15, 2026 | 14 images logged*
+*Last updated: May 3, 2026 | 14 images logged*
